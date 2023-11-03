@@ -6,16 +6,16 @@
 </p>
 
 <h1>Create Virtual Machines within Azure</h1>
-This tutorial outlines how to create virtual machines in Azure for beginners.<br />
+This tutorial outlines how to create virtual machines in Azure for complete beginners.<br />
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (Virtual Machines)
 - Remote Desktop
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10 (22H2)
+- Windows 10 (21H2)
 
 <h2>High-Level Steps</h2>
 
