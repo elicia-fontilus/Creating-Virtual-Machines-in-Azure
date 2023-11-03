@@ -149,7 +149,7 @@ Open the "Remote Desktop Connection", paste your VM public IP Address and click 
   ![image](https://github.com/elicia-fontilus/Creating-Virtual-Machines-in-Azure/assets/149262013/3d14bd53-17cf-4b25-8a77-e195c4adaeda)
 </p>
 <p>
-The username and password you created earlier in while setting up your VM is your credentials to login.
+The username and password you created earlier while setting up your VM is your credentials to login.
 </p>
 <br />
 
@@ -167,7 +167,7 @@ Click "Yes"
   ![image](https://github.com/elicia-fontilus/Creating-Virtual-Machines-in-Azure/assets/149262013/33a7844e-ea16-48ba-ba9f-a1c68083dea0)
 </p>
 <p>
-You are now in the VM that you created! Just to ensure you can open command line and type "whoami" the username you created earlier should be what the response is.
+You are now in the VM that you created! Just to ensure, you can open command line and type "whoami" the username you created earlier should be what the response is.
 </p>
 <br />
 
